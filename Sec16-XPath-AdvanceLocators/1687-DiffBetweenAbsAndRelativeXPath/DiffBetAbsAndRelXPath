@@ -1,0 +1,14 @@
+https://letskodeit.teachable.com/
+
+
+abs = html/body/header/div/div/div/div/ul/li[2]/a
+ avoid using absolute  xpath!
+
+Syntax:
+//tag[@attribute='value']
+
+
+
+//div[@id='navbar']//a[@href='/sign_up']   - points to "Sign up" anchor tag
+
+//div[@id='navbar']//a[@href='/sign_in']   - points to "Login" anchor tag

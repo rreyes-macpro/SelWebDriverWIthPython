@@ -1,0 +1,23 @@
+https://letskodeit.teachable.com/
+
+
+Parent
+    Syntax: xpath-to-some-element//parent::<tag>
+Preceding Sibling
+    Syntax: xpath-to-some-element//preceding-sibling::<tag>
+Following Sibling
+    Syntax: xpath-to-some-element//following-sibling::<tag>
+
+
+To find the parent tag of anchor tag (a)
+    //a[@href='/sign_in']//parent::li
+
+To find the preceding sibling
+    //a[@href='/sign_in']//parent::li//preceding-sibling::li
+
+To find the following sibling
+    //a[@href='/sign_in']//parent::li//preceding-sibling::li//following-sibling::li
+        we will find 2 nodes here
+        use brackets or array (wc doesnt start in zero)
+
+        //a[@href='/sign_in']//parent::li//preceding-sibling::li//following-sibling::li[1]

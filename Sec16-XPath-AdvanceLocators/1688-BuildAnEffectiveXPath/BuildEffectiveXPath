@@ -1,0 +1,24 @@
+
+https://letskodeit.teachable.com/
+
+
+
+//div[@id='navbar']/div/div/div/ul/li[2]/a
+
+Difference between single ‘/’ or double ‘//’
+    Single slash ‘/’ anywhere in xpath signifies to look for the element immediately inside the parent element.
+    Double slash ‘//’ signifies to look for any child or nested-child element inside the parent element.
+
+
+//div[@id='navbar']//div
+    this path will show all the nested div after the parent div (3 matching nodes)
+
+
+//div[@id='navbar']/div
+    finds the immediate div after the parent
+
+//div[@id='navbar']//li[2]/a
+
+
+
+    //div[@id='navbar']//a[@href='/sign_in']

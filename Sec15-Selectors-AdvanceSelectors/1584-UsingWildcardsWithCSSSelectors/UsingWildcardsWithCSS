@@ -1,0 +1,20 @@
+"""
+https://letskodeit.teachable.com/p/practice
+"""
+Using wildcards in CSS Selectors:
+    “^” -> Represents the starting text
+    “$” -> Represents the ending text
+    “*” -> Represents the text contained Syntax:
+tag[attribute<special character>=’value’]
+
+
+in the case of finding a class where the first word equals = 'inputs'
+    input[class^='inputs']
+it will just show 2 matching node since there are 2 class where there are 2 inputs as value
+
+    Examples:
+    input[class='inputs'] -> Only 1 matching node
+    input[class^='inputs'] -> Two matching nodes
+    input[class='displayed-class'] - No matching nodes
+    input[class$='class'] -> One matching node  , it also ends in class
+    input[class*='displayed-class'] -> One matching node

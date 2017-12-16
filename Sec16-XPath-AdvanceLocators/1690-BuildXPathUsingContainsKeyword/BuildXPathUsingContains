@@ -1,0 +1,19 @@
+https://letskodeit.teachable.com/
+
+
+Using Contains to find the elements:
+Syntax: //tag[contains(attribute, ‘value’)]
+
+//div[@id='navbar']//a[text()='Login']
+    using the above will not show any matching nodes. Why? Since the text 'Login' contains whitespace
+
+
+Finding Login link:
+//div[@id='navbar']//a[contains(text(),'Login')]
+//div[@id='navbar']//a[contains(@class,'navbar-link') and contains(@href,'sign_in')]
+
+//div[@id='navbar']//a[contains(@class,'navbar-link') - typing only this line shows 2 matching nodes
+
+adding  - and contains(@href,'sign_in') will locate the 1 matching node
+
+//div[@id='navbar']//a[contains(@class,'navbar-link') and contains(@href,'sign_in')]

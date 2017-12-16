@@ -1,0 +1,14 @@
+"""
+https://letskodeit.teachable.com/p/practice
+"""
+
+Finding Children
+fieldset -> 10 matching nodes
+Fieldset>table   - will able to find 1 matching node since there is only 1 table
+fieldset>#product -> One matching node
+fieldset>button -> One matching node
+Fieldset>a
+fieldset>input#name - identifies the 'Enter Your Name'
+
+Typing 'fieldset' in the CSS locator  will show 11 matching nodes (or matching nodes with 'fieldset')
+

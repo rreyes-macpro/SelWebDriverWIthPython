@@ -1,0 +1,9 @@
+"""
+Find the price of the course "Python Programming Language" within
+http://letskodeit.teachable.com/pages/practice
+using xpaths or css or id
+
+using XPath
+"""
+
+//table[@id='product']//td[text()='Python Programming Language']//following-sibling::td

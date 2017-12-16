@@ -1,0 +1,50 @@
+"""
+https://letskodeit.teachable.com/p/practice
+"""
+
+"." -> Class (Shortut key to find class)
+
+
+.inputs  -> will show 2 matching nodes (dont use something like this), locator found 2 classes with the name "inputs"
+input.inputs ( no difference)
+
+input[class=displayed-class] -> this will show "no matching node"
+        why? because the attribute class does not contain only 1 class, it also contains the other class(primary) which is "inputs"
+
+input[class ='inputs displayed-class'] -> this will show 1 matching node by sung the full class(multiple)
+
+
+We can also use appending classes
+    .class1.class2.calss3 -> until we find a unique element
+
+lets do this
+
+    .inputs - starting with this, we still find 2 matching nodes
+
+
+then append
+
+    .inputs.displayed-class - then we find 1 matching node
+
+
+
+The Open Window
+
+Clicking the open window shows 1 matching node, notice the class (2 classes) and using the class attr
+
+    .btn-style -> shows 6 matching nodes, because all the 6 items in the page using the same layout class to design the css style
+
+by appending:
+
+    .btn-style.class1 -> we still find 2 matching nodes (Open window and Open Tab items)
+    .btn-style.class1.class2 -> will find the Open Tab item button
+
+ how about the "Open Window"?
+
+    just type  #openwindow as the id and it will highlight the "Open Window" item
+
+
+
+
+
+

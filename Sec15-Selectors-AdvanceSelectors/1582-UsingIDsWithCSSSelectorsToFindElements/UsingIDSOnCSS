@@ -1,0 +1,27 @@
+
+"""
+https://letskodeit.teachable.com/p/practice
+"""
+ on Firefox/Firebug, select CSS as selector
+
+    input[id='displayd-text']
+
+ the above CSS locator will highlight the "Hide/SHow Example" text box
+
+ Now the shortcut is to use the syntax on finding ID - "#" - ID
+
+    #displayed-text
+
+ The above locator also shows the same
+
+
+
+If there are multiple nodes with the same ID as 'displayed-text' then specifically add the tag:
+
+    input#displayed-text
+
+  the above shortens the search
+
+
+input[id=displayed-text]
+#displayed-text

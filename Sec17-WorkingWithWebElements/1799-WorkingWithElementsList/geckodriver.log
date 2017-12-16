@@ -1,0 +1,32 @@
+1509659582122	geckodriver	INFO	Listening on 127.0.0.1:59026
+1509659583149	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509659585546	Marionette	INFO	Listening on port 59035
+1509659585634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509659585955	Marionette	DEBUG	loaded listener.js
+1509659586039	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-11-02 16:53:06.090 plugin-container[9583:2321389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:53:06.094 plugin-container[9583:2321389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509659587072	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509659587073	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509659588006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/p/practice"
+1509659588716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1509659588722	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1509659588724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1509659588727	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1509659589282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/courses"
+1509659589595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1509659589603	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1509659589604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1509659589606	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1509659589637	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/courses"
+1509659589691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1509659589693	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1509659589693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1509659589695	Marionette	DEBUG	Received DOM event "pageshow" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1509659589826	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/p/practice"
+1509659590206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659592468	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659594720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659783103	Marionette	INFO	Ceased listening

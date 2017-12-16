@@ -1,0 +1,15 @@
+https://letskodeit.teachable.com/
+
+
+Using Starts-With to find the elements:
+  Syntax: //tag[starts-with(attribute, ‘value’)]
+
+Finding Login link:
+    //div[@id='navbar']//a[starts-with(@class,'navbar-link')]
+
+to shorten it, lets try to find the unique value
+
+    //div[@id='navbar']//a[@href='/sign_in']
+
+we can still shorten it to:
+    //a[@href='/sign_in']
