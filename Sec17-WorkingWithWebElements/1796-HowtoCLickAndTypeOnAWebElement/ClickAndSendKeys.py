@@ -11,22 +11,35 @@ class ClickAndSendKeys():
         driver.get(baseUrl)
         driver.implicitly_wait(10)
 
-        loginLink = driver.find_element(By.XPATH, "//div[@id='navbar']//a[@href='/sign_in']")
+        xpath1 = "//div[@id='navbar']//a[@href='/sign_in']"
+        emailadd1 = 'test'
+        emailadd2 = 'ganern'
+        pword1 = 'ewan'
+
+        loginLink = driver.find_element(By.XPATH, xpath1)
+        time.sleep(3)
+        print("Login link element has been found")
         loginLink.click()
+        print("Clicking Login link")
+
 
         emailField = driver.find_element(By.ID, "user_email")
-        emailField.send_keys("test")
+        print("Typing email address in 5 sec")
+        time.sleep(5)
+        emailField.send_keys(emailadd1)
+
 
         passwordField = driver.find_element(By.ID, "user_password")
-        passwordField.send_keys("test")
-
         time.sleep(3)
+        passwordField.send_keys(pword1)
+
+        time.sleep(5)
 
         emailField.clear()
 
-        time.sleep(3)
+        time.sleep(5)
 
-        emailField.send_keys("test")
+        emailField.send_keys(emailadd2)
 
 
 

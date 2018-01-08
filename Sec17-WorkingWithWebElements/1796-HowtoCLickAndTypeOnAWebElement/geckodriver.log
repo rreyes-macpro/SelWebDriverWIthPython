@@ -129,3 +129,284 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 2017-11-23 11:36:06.399 plugin-container[6958:1158891] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
 1511458575890	Marionette	INFO	Ceased listening
+1515385692669	geckodriver	INFO	Listening on 127.0.0.1:61254
+1515385695737	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515385697959	Marionette	INFO	Listening on port 61261
+1515385698019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515385698248	Marionette	DEBUG	loaded listener.js
+1515385698280	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-07 22:28:18.334 plugin-container[79580:5697085] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515385698928	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515385698928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515385699863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515385700825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385700827	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385700828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385700830	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385701090	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515385701649	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515385702173	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515385702182	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515385702686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515385702806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515385702807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1515385702808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515385702810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515385702905	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385702906	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385702978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385702982	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385702999	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515385730967	Marionette	INFO	Ceased listening
+1515385759409	geckodriver	INFO	Listening on 127.0.0.1:61331
+1515385762472	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515385764968	Marionette	INFO	Listening on port 61338
+2018-01-07 22:29:25.375 plugin-container[79598:5698653] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515385765927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515385765970	Marionette	DEBUG	loaded listener.js
+1515385766003	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515385766637	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515385766638	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515385767527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515385768352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385768355	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385768356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385768358	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385768784	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515385768908	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515385768910	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515385769028	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515385769596	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515385769599	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515385770119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515385770258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515385770263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1515385770264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515385770265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515385770441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385770442	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385770443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385770444	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385770467	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515385846249	Marionette	INFO	Ceased listening
+1515385849183	geckodriver	INFO	Listening on 127.0.0.1:61411
+1515385852245	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515385854720	Marionette	INFO	Listening on port 61418
+2018-01-07 22:30:55.096 plugin-container[79624:5700538] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515385855701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515385855770	Marionette	DEBUG	loaded listener.js
+1515385855820	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515385856540	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515385856540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515385857464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515385859401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385859406	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515385859407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385859410	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515385860770	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515385861064	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515385861069	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515385861136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515386310205	Marionette	INFO	Ceased listening
+1515386482444	geckodriver	INFO	Listening on 127.0.0.1:61519
+1515386485526	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515386488185	Marionette	INFO	Listening on port 61526
+2018-01-07 22:41:28.582 plugin-container[79747:5711836] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515386488979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515386489023	Marionette	DEBUG	loaded listener.js
+1515386489053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515386489951	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515386489952	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515386490925	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515386491672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386491676	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386491691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386491693	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386492224	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515386492357	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386492361	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386492479	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515386493134	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386493137	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515386493577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515386493661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1515386493665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1515386493666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515386493669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515386493760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386493763	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386493765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386493766	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386493851	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515386615397	geckodriver	INFO	Listening on 127.0.0.1:61608
+1515386618448	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515386621273	Marionette	INFO	Listening on port 61615
+2018-01-07 22:43:41.692 plugin-container[79787:5715659] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515386621912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515386621982	Marionette	DEBUG	loaded listener.js
+1515386622461	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515386623331	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515386623331	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515386624301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515386625020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386625024	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386625048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386625050	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386625347	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515386625467	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386625471	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386625601	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515386626073	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386626075	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515386626519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515386626619	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1515386626621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1515386626622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515386626624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515386626711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386626714	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386626716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386626717	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386626815	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515386695950	Marionette	INFO	Ceased listening
+1515386698354	Marionette	INFO	Ceased listening
+1515386702381	geckodriver	INFO	Listening on 127.0.0.1:61684
+1515386705442	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515386707930	Marionette	INFO	Listening on port 61691
+2018-01-07 22:45:08.291 plugin-container[79822:5718534] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515386708909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515386708950	Marionette	DEBUG	loaded listener.js
+1515386708994	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515386709869	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515386709870	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515386710758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515386711636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386711640	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386711644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386711645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386711922	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515386712055	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386712058	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386712193	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515386712617	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515386712619	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515386713063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515386713137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515386713139	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1515386713141	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515386713142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515386713219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386713221	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515386713222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386713225	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515386713325	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515387762323	Marionette	INFO	Ceased listening
+1515387850866	geckodriver	INFO	Listening on 127.0.0.1:61796
+1515387853910	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515387856567	Marionette	INFO	Listening on port 61803
+2018-01-07 23:04:16.923 plugin-container[79920:5729472] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515387857366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515387857410	Marionette	DEBUG	loaded listener.js
+1515387857442	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515387858357	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515387858357	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515387859204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515387859915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387859918	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387859920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387859922	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387860306	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515387860434	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515387860438	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515387860579	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515387861166	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515387861169	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515387861605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515387861681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515387861683	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1515387861684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515387861686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515387861773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387861775	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387861777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387861779	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387861865	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515387899968	Marionette	INFO	Ceased listening
+1515387921440	geckodriver	INFO	Listening on 127.0.0.1:61862
+1515387924499	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515387926614	Marionette	INFO	Listening on port 61869
+1515387926742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515387927121	Marionette	DEBUG	loaded listener.js
+1515387927222	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-07 23:05:27.317 plugin-container[79940:5731205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515387928060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515387928060	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515387929255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515387930024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387930027	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387930029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387930035	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387930536	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515387930701	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515387930704	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515387930832	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515387931222	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515387931224	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515387931721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515387931782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515387931784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1515387931785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515387931788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515387931850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387931851	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515387931852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387931855	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515387932407	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515388132310	geckodriver	INFO	Listening on 127.0.0.1:61947
+1515388134259	Marionette	INFO	Ceased listening
+1515388135373	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515388138027	Marionette	INFO	Listening on port 61954
+2018-01-07 23:08:58.395 plugin-container[79996:5735141] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515388138860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515388138913	Marionette	DEBUG	loaded listener.js
+1515388138979	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515388139710	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515388139711	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515388140703	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://letskodeit.teachable.com/"
+1515388141371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515388141374	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515388141378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515388141382	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515388142004	Marionette	DEBUG	Received DOM event "pageshow" for "https://letskodeit.teachable.com/"
+1515388142125	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515388142131	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515388142260	Marionette	DEBUG	Received DOM event "beforeunload" for "https://letskodeit.teachable.com/"
+1515388143153	Marionette	DEBUG	Received DOM event "pagehide" for "https://fast.wistia.com/embed/iframe_shim?domain=com"
+1515388143155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515388143589	Marionette	DEBUG	Received DOM event "pagehide" for "https://letskodeit.teachable.com/"
+1515388143591	Marionette	DEBUG	Received DOM event "unload" for "https://letskodeit.teachable.com/"
+1515388144016	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+1515388144123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1515388144124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515388144127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1515388144220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515388144222	Marionette	DEBUG	Received DOM event "pageshow" for "https://dialog.filestackapi.com/dialog/comm_iframe/"
+1515388144223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515388144224	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.filestackapi.com/dialog/comm_iframe/"
+1515388144330	Marionette	DEBUG	Received DOM event "pageshow" for "https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1515443386421	Marionette	INFO	Ceased listening
