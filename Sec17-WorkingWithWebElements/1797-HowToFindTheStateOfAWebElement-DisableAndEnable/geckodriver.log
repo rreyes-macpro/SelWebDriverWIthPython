@@ -129,3 +129,4 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1515446749315	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1515446749462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.ca/?gfe_rd=cr&dcr=0&ei=3OFTWuanG6_M8AewwrKADg&gws_rd=ssl"
 1515446750380	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.ca/?gfe_rd=cr&dcr=0&ei=3OFTWuanG6_M8AewwrKADg&gws_rd=ssl"
+1515447095414	Marionette	INFO	Ceased listening
