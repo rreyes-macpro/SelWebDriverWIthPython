@@ -484,3 +484,4 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1515544160142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1515544163391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1515544166655	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515544348623	Marionette	INFO	Ceased listening
